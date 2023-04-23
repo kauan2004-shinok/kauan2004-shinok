@@ -1,15 +1,7 @@
 ## Bem-vindo(a) ao perfil do Kauan-shinok 😁
 
  <div>
-  <a href="https://github.com/kauan2004-shinok
-">
-   <a href="https://github.com/kauan2004-shinok
-">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauan2004-shinok
-&show_icons=true&theme=gruvboxt&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauan2004-shinok
-&layout=compact&langs_count=6&theme=tokyonight"/>
-  </a>
+  
 
 </div>
 <div style="display: inline_block"><br>
@@ -29,5 +21,3 @@
   <a href = "mailto:"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https:/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https:///blob/output/github-contribution-grid-snake.svg)
-</div>
